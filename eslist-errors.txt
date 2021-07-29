@@ -1,5 +1,5 @@
-no-var,
-eqeqeq,
-no-undef,
-no-plusplus,
-no-return-assign,
+no-var
+eqeqeq
+no-undef
+no-plusplus
+no-return-assign
